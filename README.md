@@ -1,4 +1,4 @@
-# qr_automation
+# QR_Automation
 Generating website QR code through API simultaniously.
 
 QR code generation application that allows users to generate QR codes for websites by using text input to provide the website name. The application uses various
